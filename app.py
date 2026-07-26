@@ -73,6 +73,14 @@ if menu == "🏠 Home":
     - Grafik suhu
     - Grafik kelembaban
     - Statistik data
+
+     ### 🔍 Eksplorasi Data
+    Fitur eksplorasi data digunakan untuk memahami karakteristik dan pola dari data sensor sebelum dilakukan proses analisis lebih lanjut. Pada fitur ini pengguna 
+    dapat melihat:
+    - Informasi dataset
+    - Distribusi data sensor
+    - Pola perubahan suhu dan kelembaban
+    - Hubungan antar variabel sensor
     
     ### 🔮 Forecasting
     - Prediksi suhu 6 jam
