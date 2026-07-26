@@ -645,7 +645,7 @@ elif menu == "👥 Tim Pengembang":
     
     with col1:
         try:
-            st.image("images/hana.jpg.png", width=180)
+            st.image("hana.jpg.png", width=180)
         except:
             st.info("📷 Foto Hana tidak ditemukan")
         st.write("### Hana Rahmawati")
@@ -654,7 +654,7 @@ elif menu == "👥 Tim Pengembang":
     
     with col2:
         try:
-            st.image("images/vivi.jpg.png", width=180)
+            st.image("vivi.jpg.png", width=180)
         except:
             st.info("📷 Foto Vivi tidak ditemukan")
         st.write("### Agatha Viola Amanda Febyani")
